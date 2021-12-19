@@ -1,0 +1,1 @@
+cdafed24d8da34c11954250a850b5fe1f77580f0a90bbd54ec146fd9edbb5465  ./target/wasm32-unknown-unknown/release/hello_world.wasm
